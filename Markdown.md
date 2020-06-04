@@ -10,3 +10,8 @@ You can use Markdown most places around GitHub:
 
 ## Syntax guide
 Here’s an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text file.
+
+Headers : 
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
